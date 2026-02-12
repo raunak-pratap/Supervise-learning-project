@@ -1,0 +1,5 @@
+# Ignore all CSV data files
+*.csv
+
+# If your data is in a folder named 'data', ignore the whole folder
+data/
