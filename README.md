@@ -59,20 +59,16 @@ The project utilizes a loan approval dataset with 20 features, including:
 The following models were trained and evaluated:
 
 <ol>
-        <li>
-            <strong>Logistic Regression:</strong> For baseline classification.
-        </li>
-
-        <li>
-            <strong>Random Forest:</strong> To handle non-linear relationships.
-        </li>
-
-        <li>
-            <strong>SVM (Support Vector Machine):</strong> Using RBF kernels.
-        </li>
-
-        <li>
-             <strong>Naive Bayes:</strong> For probabilistic classification.
-        </li>
-
+<li>
+    <strong>Logistic Regression:</strong> For baseline classification.
+</li>
+<li> 
+    <strong>Random Forest:</strong> To handle non-linear relationships.
+</li>
+<li>
+    <strong> SVM (Support Vector Machine):</strong>Using RBF kernels.
+</li>
+<li>
+    <strong>Naive Bayes:</strong> For probabilistic classification.
+</li>
 </ol>
